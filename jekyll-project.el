@@ -2,7 +2,7 @@
   "Support a jekyll project environment."
   :group 'text)
 
-(defcustom jekyll-project-post-dir "_post/"
+(defcustom jekyll-project-post-dir "_posts/"
   "Jekyll markdown folder."
   :type 'string
   :group 'jekyll-project)
